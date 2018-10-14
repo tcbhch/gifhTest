@@ -1,0 +1,5 @@
+XSym
+0100
+40630367badbc05b47db78cb2e1aa441
+../../../AnimatedGIFImageSerialization/AnimatedGIFImageSerialization/AnimatedGIFImageSerialization.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
